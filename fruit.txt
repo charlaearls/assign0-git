@@ -6,3 +6,5 @@ lemon
 plum
 kiwi
 date
+tomato
+strawberry 
