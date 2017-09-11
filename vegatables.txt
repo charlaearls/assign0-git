@@ -1,3 +1,5 @@
 spinach
 broccoli
 turnip
+kale
+artichoke
