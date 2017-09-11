@@ -2,3 +2,5 @@ spinach
 broccoli
 turnip
 potato
+kale 
+artichoke
